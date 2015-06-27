@@ -1,0 +1,21 @@
+Using The AWT/Swing Libraries To
+Develop GUI Based Applications.
+
+A GUI Based Application renders a
+window with graphical components to
+the user.
+The user interacts with the GUI 
+components. (Example : Clicks on
+a button).
+This causes an "event".
+On event an associated method executes.
+
+This approach to application development
+is called as "Event Driven Programming".
+
+------------------------------------
+
+Java provides awt and swing library
+for implementing GUI based applications.
+  
+

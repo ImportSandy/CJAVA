@@ -1,0 +1,37 @@
+Layout Managers
+
+Layout Managers are used by 
+containers (JFrame, Applet, JPanel)
+to size and to position the added 
+components (JButton, JLabel, ...).
+
+Primary Layout Managers are :
+* FlowLayout
+* BorderLayout
+* GridLayout
+
+FlowLayout
+Arranges (positions and sizes) the
+components rowwise from left to right.
+A new row starts as the current row
+becomes full.
+Every component gets preferred size.
+ 
+
+BorderLayout 
+Splits the window in 5 parts, named
+as EAST, WEST, NORTH, SOUTH
+and CENTER.
+It allows addition of 5 components.
+Extra added components will pile up
+on the previous added component.
+
+
+GridLayout 
+Splits the window into a grid of
+specific rows and cols.
+It allows addition of 1 component
+in one cell of the grid.
+All components get same size i.e. the
+size of the cell of grid.
+ 
